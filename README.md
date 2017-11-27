@@ -29,3 +29,5 @@ The file naming convention is as follows:
 `BEAMFORMING-ALG_DIRECTION-IN-DEG.wav`
 where BEAMFORMING-ALG is either DAS (Delay and Sum) or WPMM (Weighted Pressure Matching Method).
 
+# DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1067221.svg)](https://doi.org/10.5281/zenodo.1067221)
